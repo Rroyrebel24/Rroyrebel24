@@ -70,5 +70,10 @@ I used **Power Query** in Excel to clean the data, categorize job roles, handle 
 
 [👉 Cleaned Dataset](Screenshot2.png)
 
+## 📌 Power Query
+
+[👉 Code](PowerQueryCode.txt)
+
+
 ---
 
