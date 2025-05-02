@@ -81,5 +81,5 @@ FINALS:
 
 - ### [View Finals Task 2. Transforming ER into Relational Tables](Finals%20Task%202.%20Transforming%20ER%20into%20Relational%20Tables)
    - ### [finals task 3: table manipulation](https://github.com/Rroyrebel24/Rroyrebel24/tree/main)
-   - ### [finals task 4:using select statement](
+   - ### [finals task 4:using select statement](https://github.com/Rroyrebel24/Rroyrebel24/tree/main)
 
