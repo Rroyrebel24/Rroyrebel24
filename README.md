@@ -80,5 +80,5 @@ I used **Power Query** in Excel to clean the data, categorize job roles, handle 
 FINALS:
 
 2. [View Finals Task 2. Transforming ER into Relational Tables](Finals%20Task%202.%20Transforming%20ER%20into%20Relational%20Tables)
-   - ###[table manipulation](https://github.com/Rroyrebel24/Rroyrebel24/tree/main)
+   - ### [table manipulation](https://github.com/Rroyrebel24/Rroyrebel24/tree/main)
 
